@@ -1,0 +1,7 @@
+[configuration]
+entry_symbol = "concurrency_gate_library_init"
+compatibility_minimum = "4.3"
+
+[libraries]
+linux.x86_64.debug = "res://bin/libconcurrency_gate.so"
+linux.x86_64.release = "res://bin/libconcurrency_gate.so"

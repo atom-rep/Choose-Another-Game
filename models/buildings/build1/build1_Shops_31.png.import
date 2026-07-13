@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://crbw2gcim85on"
+path.s3tc="res://.godot/imported/build1_Shops_31.png-b7c52cb710e6e3ced30c8c426d0d13d6.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "d9a6d71bbd66b129ff08df0e92211e1f"
+}
+
+[deps]
+
+source_file="res://models/buildings/build1/build1_Shops_31.png"
+dest_files=["res://.godot/imported/build1_Shops_31.png-b7c52cb710e6e3ced30c8c426d0d13d6.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0
