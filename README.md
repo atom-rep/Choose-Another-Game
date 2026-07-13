@@ -1,3 +1,6 @@
+Gioco creato tramite l'Engine Godot (versione 4.3).
+
+
 Scripts:
   contiene tutti i file .gd per la logica di gioco.
 
